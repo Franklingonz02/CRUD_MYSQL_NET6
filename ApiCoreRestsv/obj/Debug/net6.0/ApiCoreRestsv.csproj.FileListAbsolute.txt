@@ -1,0 +1,103 @@
+C:\Users\Usuario\Desktop\tracking rayones\src\ApiCoreRestsv\ApiCoreRestsv\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Usuario\Desktop\tracking rayones\src\ApiCoreRestsv\ApiCoreRestsv\bin\Debug\net6.0\appsettings.json
+C:\Users\Usuario\Desktop\tracking rayones\src\ApiCoreRestsv\ApiCoreRestsv\bin\Debug\net6.0\ApiCoreRestsv.exe
+C:\Users\Usuario\Desktop\tracking rayones\src\ApiCoreRestsv\ApiCoreRestsv\bin\Debug\net6.0\ApiCoreRestsv.deps.json
+C:\Users\Usuario\Desktop\tracking rayones\src\ApiCoreRestsv\ApiCoreRestsv\bin\Debug\net6.0\ApiCoreRestsv.runtimeconfig.json
+C:\Users\Usuario\Desktop\tracking rayones\src\ApiCoreRestsv\ApiCoreRestsv\bin\Debug\net6.0\ApiCoreRestsv.dll
+C:\Users\Usuario\Desktop\tracking rayones\src\ApiCoreRestsv\ApiCoreRestsv\bin\Debug\net6.0\ApiCoreRestsv.pdb
+C:\Users\Usuario\Desktop\tracking rayones\src\ApiCoreRestsv\ApiCoreRestsv\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Usuario\Desktop\tracking rayones\src\ApiCoreRestsv\ApiCoreRestsv\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Usuario\Desktop\tracking rayones\src\ApiCoreRestsv\ApiCoreRestsv\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Usuario\Desktop\tracking rayones\src\ApiCoreRestsv\ApiCoreRestsv\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Usuario\Desktop\tracking rayones\src\ApiCoreRestsv\ApiCoreRestsv\obj\Debug\net6.0\ApiCoreRestsv.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\tracking rayones\src\ApiCoreRestsv\ApiCoreRestsv\obj\Debug\net6.0\ApiCoreRestsv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\tracking rayones\src\ApiCoreRestsv\ApiCoreRestsv\obj\Debug\net6.0\ApiCoreRestsv.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\tracking rayones\src\ApiCoreRestsv\ApiCoreRestsv\obj\Debug\net6.0\ApiCoreRestsv.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\tracking rayones\src\ApiCoreRestsv\ApiCoreRestsv\obj\Debug\net6.0\ApiCoreRestsv.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\tracking rayones\src\ApiCoreRestsv\ApiCoreRestsv\obj\Debug\net6.0\ApiCoreRestsv.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Usuario\Desktop\tracking rayones\src\ApiCoreRestsv\ApiCoreRestsv\obj\Debug\net6.0\ApiCoreRestsv.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\Desktop\tracking rayones\src\ApiCoreRestsv\ApiCoreRestsv\obj\Debug\net6.0\staticwebassets\msbuild.ApiCoreRestsv.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Usuario\Desktop\tracking rayones\src\ApiCoreRestsv\ApiCoreRestsv\obj\Debug\net6.0\staticwebassets\msbuild.build.ApiCoreRestsv.props
+C:\Users\Usuario\Desktop\tracking rayones\src\ApiCoreRestsv\ApiCoreRestsv\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ApiCoreRestsv.props
+C:\Users\Usuario\Desktop\tracking rayones\src\ApiCoreRestsv\ApiCoreRestsv\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ApiCoreRestsv.props
+C:\Users\Usuario\Desktop\tracking rayones\src\ApiCoreRestsv\ApiCoreRestsv\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Usuario\Desktop\tracking rayones\src\ApiCoreRestsv\ApiCoreRestsv\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Usuario\Desktop\tracking rayones\src\ApiCoreRestsv\ApiCoreRestsv\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Usuario\Desktop\tracking rayones\src\ApiCoreRestsv\ApiCoreRestsv\obj\Debug\net6.0\scopedcss\bundle\ApiCoreRestsv.styles.css
+C:\Users\Usuario\Desktop\tracking rayones\src\ApiCoreRestsv\ApiCoreRestsv\obj\Debug\net6.0\ApiCoreRestsv.csproj.CopyComplete
+C:\Users\Usuario\Desktop\tracking rayones\src\ApiCoreRestsv\ApiCoreRestsv\obj\Debug\net6.0\ApiCoreRestsv.dll
+C:\Users\Usuario\Desktop\tracking rayones\src\ApiCoreRestsv\ApiCoreRestsv\obj\Debug\net6.0\refint\ApiCoreRestsv.dll
+C:\Users\Usuario\Desktop\tracking rayones\src\ApiCoreRestsv\ApiCoreRestsv\obj\Debug\net6.0\ApiCoreRestsv.pdb
+C:\Users\Usuario\Desktop\tracking rayones\src\ApiCoreRestsv\ApiCoreRestsv\obj\Debug\net6.0\ApiCoreRestsv.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\tracking rayones\src\ApiCoreRestsv\ApiCoreRestsv\obj\Debug\net6.0\ref\ApiCoreRestsv.dll
+D:\PreUtec\ApiCoreRestsv\ApiCoreRestsv\ApiCoreRestsv\bin\Debug\net6.0\appsettings.Development.json
+D:\PreUtec\ApiCoreRestsv\ApiCoreRestsv\ApiCoreRestsv\bin\Debug\net6.0\appsettings.json
+D:\PreUtec\ApiCoreRestsv\ApiCoreRestsv\ApiCoreRestsv\bin\Debug\net6.0\ApiCoreRestsv.exe
+D:\PreUtec\ApiCoreRestsv\ApiCoreRestsv\ApiCoreRestsv\bin\Debug\net6.0\ApiCoreRestsv.deps.json
+D:\PreUtec\ApiCoreRestsv\ApiCoreRestsv\ApiCoreRestsv\bin\Debug\net6.0\ApiCoreRestsv.runtimeconfig.json
+D:\PreUtec\ApiCoreRestsv\ApiCoreRestsv\ApiCoreRestsv\bin\Debug\net6.0\ApiCoreRestsv.dll
+D:\PreUtec\ApiCoreRestsv\ApiCoreRestsv\ApiCoreRestsv\bin\Debug\net6.0\ApiCoreRestsv.pdb
+D:\PreUtec\ApiCoreRestsv\ApiCoreRestsv\ApiCoreRestsv\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\PreUtec\ApiCoreRestsv\ApiCoreRestsv\ApiCoreRestsv\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\PreUtec\ApiCoreRestsv\ApiCoreRestsv\ApiCoreRestsv\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\PreUtec\ApiCoreRestsv\ApiCoreRestsv\ApiCoreRestsv\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\PreUtec\ApiCoreRestsv\ApiCoreRestsv\ApiCoreRestsv\obj\Debug\net6.0\ApiCoreRestsv.csproj.AssemblyReference.cache
+D:\PreUtec\ApiCoreRestsv\ApiCoreRestsv\ApiCoreRestsv\obj\Debug\net6.0\ApiCoreRestsv.GeneratedMSBuildEditorConfig.editorconfig
+D:\PreUtec\ApiCoreRestsv\ApiCoreRestsv\ApiCoreRestsv\obj\Debug\net6.0\ApiCoreRestsv.AssemblyInfoInputs.cache
+D:\PreUtec\ApiCoreRestsv\ApiCoreRestsv\ApiCoreRestsv\obj\Debug\net6.0\ApiCoreRestsv.AssemblyInfo.cs
+D:\PreUtec\ApiCoreRestsv\ApiCoreRestsv\ApiCoreRestsv\obj\Debug\net6.0\ApiCoreRestsv.csproj.CoreCompileInputs.cache
+D:\PreUtec\ApiCoreRestsv\ApiCoreRestsv\ApiCoreRestsv\obj\Debug\net6.0\ApiCoreRestsv.MvcApplicationPartsAssemblyInfo.cs
+D:\PreUtec\ApiCoreRestsv\ApiCoreRestsv\ApiCoreRestsv\obj\Debug\net6.0\ApiCoreRestsv.MvcApplicationPartsAssemblyInfo.cache
+D:\PreUtec\ApiCoreRestsv\ApiCoreRestsv\ApiCoreRestsv\obj\Debug\net6.0\staticwebassets.build.json
+D:\PreUtec\ApiCoreRestsv\ApiCoreRestsv\ApiCoreRestsv\obj\Debug\net6.0\staticwebassets.development.json
+D:\PreUtec\ApiCoreRestsv\ApiCoreRestsv\ApiCoreRestsv\obj\Debug\net6.0\scopedcss\bundle\ApiCoreRestsv.styles.css
+D:\PreUtec\ApiCoreRestsv\ApiCoreRestsv\ApiCoreRestsv\obj\Debug\net6.0\ApiCoreRestsv.csproj.CopyComplete
+D:\PreUtec\ApiCoreRestsv\ApiCoreRestsv\ApiCoreRestsv\obj\Debug\net6.0\ApiCoreRestsv.dll
+D:\PreUtec\ApiCoreRestsv\ApiCoreRestsv\ApiCoreRestsv\obj\Debug\net6.0\refint\ApiCoreRestsv.dll
+D:\PreUtec\ApiCoreRestsv\ApiCoreRestsv\ApiCoreRestsv\obj\Debug\net6.0\ApiCoreRestsv.pdb
+D:\PreUtec\ApiCoreRestsv\ApiCoreRestsv\ApiCoreRestsv\obj\Debug\net6.0\ApiCoreRestsv.genruntimeconfig.cache
+D:\PreUtec\ApiCoreRestsv\ApiCoreRestsv\ApiCoreRestsv\obj\Debug\net6.0\ref\ApiCoreRestsv.dll
+D:\PreUtec\ApiCoreRestsv\ApiCoreRestsv\ApiCoreRestsv\bin\Debug\net6.0\Google.Protobuf.dll
+D:\PreUtec\ApiCoreRestsv\ApiCoreRestsv\ApiCoreRestsv\bin\Debug\net6.0\Humanizer.dll
+D:\PreUtec\ApiCoreRestsv\ApiCoreRestsv\ApiCoreRestsv\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+D:\PreUtec\ApiCoreRestsv\ApiCoreRestsv\ApiCoreRestsv\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+D:\PreUtec\ApiCoreRestsv\ApiCoreRestsv\ApiCoreRestsv\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+D:\PreUtec\ApiCoreRestsv\ApiCoreRestsv\ApiCoreRestsv\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\PreUtec\ApiCoreRestsv\ApiCoreRestsv\ApiCoreRestsv\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PreUtec\ApiCoreRestsv\ApiCoreRestsv\ApiCoreRestsv\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\PreUtec\ApiCoreRestsv\ApiCoreRestsv\ApiCoreRestsv\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\PreUtec\ApiCoreRestsv\ApiCoreRestsv\ApiCoreRestsv\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\PreUtec\ApiCoreRestsv\ApiCoreRestsv\ApiCoreRestsv\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\PreUtec\ApiCoreRestsv\ApiCoreRestsv\ApiCoreRestsv\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\PreUtec\ApiCoreRestsv\ApiCoreRestsv\ApiCoreRestsv\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\PreUtec\ApiCoreRestsv\ApiCoreRestsv\ApiCoreRestsv\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\PreUtec\ApiCoreRestsv\ApiCoreRestsv\ApiCoreRestsv\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\PreUtec\ApiCoreRestsv\ApiCoreRestsv\ApiCoreRestsv\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\PreUtec\ApiCoreRestsv\ApiCoreRestsv\ApiCoreRestsv\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\PreUtec\ApiCoreRestsv\ApiCoreRestsv\ApiCoreRestsv\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\PreUtec\ApiCoreRestsv\ApiCoreRestsv\ApiCoreRestsv\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\PreUtec\ApiCoreRestsv\ApiCoreRestsv\ApiCoreRestsv\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\PreUtec\ApiCoreRestsv\ApiCoreRestsv\ApiCoreRestsv\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\PreUtec\ApiCoreRestsv\ApiCoreRestsv\ApiCoreRestsv\bin\Debug\net6.0\MySql.Data.dll
+D:\PreUtec\ApiCoreRestsv\ApiCoreRestsv\ApiCoreRestsv\bin\Debug\net6.0\ZstdNet.dll
+D:\PreUtec\ApiCoreRestsv\ApiCoreRestsv\ApiCoreRestsv\bin\Debug\net6.0\comerr64.dll
+D:\PreUtec\ApiCoreRestsv\ApiCoreRestsv\ApiCoreRestsv\bin\Debug\net6.0\gssapi64.dll
+D:\PreUtec\ApiCoreRestsv\ApiCoreRestsv\ApiCoreRestsv\bin\Debug\net6.0\k5sprt64.dll
+D:\PreUtec\ApiCoreRestsv\ApiCoreRestsv\ApiCoreRestsv\bin\Debug\net6.0\krb5_64.dll
+D:\PreUtec\ApiCoreRestsv\ApiCoreRestsv\ApiCoreRestsv\bin\Debug\net6.0\krbcc64.dll
+D:\PreUtec\ApiCoreRestsv\ApiCoreRestsv\ApiCoreRestsv\bin\Debug\net6.0\MySql.EntityFrameworkCore.dll
+D:\PreUtec\ApiCoreRestsv\ApiCoreRestsv\ApiCoreRestsv\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\PreUtec\ApiCoreRestsv\ApiCoreRestsv\ApiCoreRestsv\bin\Debug\net6.0\System.CodeDom.dll
+D:\PreUtec\ApiCoreRestsv\ApiCoreRestsv\ApiCoreRestsv\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\PreUtec\ApiCoreRestsv\ApiCoreRestsv\ApiCoreRestsv\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\PreUtec\ApiCoreRestsv\ApiCoreRestsv\ApiCoreRestsv\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\PreUtec\ApiCoreRestsv\ApiCoreRestsv\ApiCoreRestsv\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\PreUtec\ApiCoreRestsv\ApiCoreRestsv\ApiCoreRestsv\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\PreUtec\ApiCoreRestsv\ApiCoreRestsv\ApiCoreRestsv\bin\Debug\net6.0\System.Text.Json.dll
+D:\PreUtec\ApiCoreRestsv\ApiCoreRestsv\ApiCoreRestsv\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\PreUtec\ApiCoreRestsv\ApiCoreRestsv\ApiCoreRestsv\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\PreUtec\ApiCoreRestsv\ApiCoreRestsv\ApiCoreRestsv\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\PreUtec\ApiCoreRestsv\ApiCoreRestsv\ApiCoreRestsv\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\PreUtec\ApiCoreRestsv\ApiCoreRestsv\ApiCoreRestsv\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\PreUtec\ApiCoreRestsv\ApiCoreRestsv\ApiCoreRestsv\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\PreUtec\ApiCoreRestsv\ApiCoreRestsv\ApiCoreRestsv\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
